@@ -51,5 +51,5 @@ print('employees:',employees)
 '''sample output:
 employees: {1: {'name': 'priya', 'department': 'CSE', 'salary': 100000}, 2: {'name': 'shankar', 'departmrnt': 'mechanical', 'salary': 100000}, 3: {'name': 'maheswar', 'department': 'EEE', 'salary': 100000}} '''
     
-#dictionaries_6
+
 
