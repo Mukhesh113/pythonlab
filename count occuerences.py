@@ -6,6 +6,6 @@ for c in s:
         count += 1
 print("Occurrences:", count)
 #output:
-Enter a string: dharani
-Enter character to count: r
-Occurrences: 1
+Enter a string: mukhesh
+Enter character to count: h
+Occurrences: 2
