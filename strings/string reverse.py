@@ -4,5 +4,5 @@ for ch in s:
     reverse=ch+reverse;
 print("reversed string",reverse)
 #output:
-enter a stringdevi
-reversed string ived 
+enter a stringmukhesh
+reversed string hsehkum 
