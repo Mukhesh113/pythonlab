@@ -1,5 +1,5 @@
 s = input("Enter a string: ")
 print("Every second character:", s[::2])
 #output:
-Enter a string: devi
-Every second character: dv
+Enter a string:mukhesh
+Every second character: mkeh
